@@ -15,7 +15,7 @@
   <groupId>com.example</groupId>
   <artifactId>ccit</artifactId>
   <version>0.0.3</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>My Spring Boot Web App</name>
   <description>Cloud Computing in Telugu Web Application</description>
